@@ -27,9 +27,9 @@ feature:
     - name: "Faster Response"
       icon: "/images/speedometer.svg"
       content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Cloud Support"
+    - name: "Soporte en la Nube"
       icon: "/images/cloud.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content: "Garantizamos el acceso desde cualquier dispositivo, accede a tu negocio desde la nube."
 
 # services
 services:
