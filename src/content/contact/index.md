@@ -1,12 +1,11 @@
 ---
-title: "Contact Us"
+title: "Contactanos"
 draft: false
-info: 
-  title: Why you should contact us!
+info:
+  title: Porque deberias contactarnos!
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-  contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+  contacts:
+    - "Teléfono: +34 666 666 666"
+    - "Mail: [info@aequitasnexum.com](mailto:info@aequitasnexum.com)"
+    - "Dirección: C/ de l'Historiador Diago, 3, Extramurs, 46007 València, Comunitat Valenciana"
 ---
-

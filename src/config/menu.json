@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
@@ -9,20 +9,16 @@
       "url": "/blog"
     },
     {
-      "name": "Pricing",
+      "name": "Planes",
       "url": "/pricing"
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
       "name": "FAQ",
       "url": "/faq"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
     }
   ],
   "footer": [
@@ -30,7 +26,7 @@
       "name": "Company",
       "menu": [
         {
-          "text": "Pricing",
+          "text": "Planes",
           "url": "/pricing"
         },
         {
@@ -40,10 +36,10 @@
       ]
     },
     {
-      "name": "Product",
+      "name": "Producto",
       "menu": [
         {
-          "text": "Features",
+          "text": "Características",
           "url": "#"
         },
         {
@@ -51,24 +47,24 @@
           "url": "#"
         },
         {
-          "text": "Pricing",
+          "text": "Planes",
           "url": "/pricing"
         }
       ]
     },
     {
-      "name": "Support",
+      "name": "Soporte",
       "menu": [
         {
           "text": "FAQ",
           "url": "/faq"
         },
         {
-          "text": "Privacy Policy",
+          "text": "Políticas de Privacidad",
           "url": "/privacy-policy"
         },
         {
-          "text": "Terms & Conditions",
+          "text": "Terminos y Condiciones",
           "url": "/terms-conditions"
         }
       ]

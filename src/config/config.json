@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
-    "base_url": "https://bigspring-light-astro.vercel.app",
+    "title": "Aequitas Nexum",
+    "base_url": "https://AequitasNexum",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -26,8 +26,8 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "footer_content": "Aequitas Nexum. Software de Gestión Integral especializado en PYMES. Abre los horizontes de tu negocio con un solo click.",
+    "copyright": "Diseñado y Desarrollado por el equipo Web de Aequitas Nexum"
   },
 
   "metadata": {
