@@ -3,22 +3,22 @@ title: Planes
 description: "meta description"
 draft: false
 plans:
-  - title: Basic Plan
-    subtitle: Best For Small Individuals
+  - title: Plan Básico
+    subtitle: Perfecto para iniciarse en el mundo de los Sistemas de Gestión Integral
     price: 49
-    type: month
+    type: mes
     features:
       - Express Service
       - Customs Clearance
       - Time-Critical Services
     button:
-      label: Get started for free
+      label: Get started
       link: "/contact"
 
-  - title: Professional Plan
+  - title: Plan Profesional
     subtitle: Best For Professionals
     price: 69
-    type: month
+    type: mes
     recommended: true
     features:
       - Express Service
@@ -26,18 +26,6 @@ plans:
       - Time-Critical Services
       - Cloud Service
       - Best Dashboard
-    button:
-      label: Get started
-      link: "/contact"
-
-  - title: Business Plan
-    subtitle: Best For Large Individuals
-    price: 99
-    type: month
-    features:
-      - Express Service
-      - Customs Clearance
-      - Time-Critical Services
     button:
       label: Get started
       link: "/contact"

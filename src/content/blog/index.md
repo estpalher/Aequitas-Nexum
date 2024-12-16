@@ -1,4 +1,4 @@
 ---
-title: "Latest news"
+title: "Noticias"
 description: "this is meta description"
 ---
