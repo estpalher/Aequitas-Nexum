@@ -4,11 +4,11 @@
     "base_url": "https://AequitasNexum",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "38",
-    "logo_text": "Astroplate"
+    "favicon": "/images/Logo Aequitas Nexum.png",
+    "logo": "/images/Banner Aequitas Nexum.png",
+    "logo_width": "300",
+    "logo_height": "120",
+    "logo_text": "Aequitas Nexum"
   },
 
   "settings": {
@@ -19,7 +19,7 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Aventúrate",
     "link": "/contact"
   },
 

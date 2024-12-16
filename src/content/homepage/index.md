@@ -1,10 +1,10 @@
 ---
 banner:
-  title: Elige Aequitas Nexum pililas enormes
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Elige Aequitas Nexum
+  content: Un único software que te permite controlar tus negocios online. Toda la potencia de internet en una sola aplicación.
   image: /images/banner-art.png
   button:
-    label: "Contact Us"
+    label: "Contáctanos "
     link: "/contact"
     enable: true
 
@@ -33,7 +33,7 @@ feature:
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
+  - title: "Tecnología innovadora"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images:
       - "/images/service-slide-1.png"
@@ -77,7 +77,7 @@ services:
 
 # workflow
 workflow:
-  title: "Experience the best workflow with us"
+  title: "Experimenta el mejor software para PYMES"
   image: "/images/banner.png"
   description: ""
 

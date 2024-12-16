@@ -23,7 +23,7 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Empresa",
       "menu": [
         {
           "text": "Planes",
@@ -43,7 +43,7 @@
           "url": "#"
         },
         {
-          "text": "Platform",
+          "text": "Plataforma",
           "url": "#"
         },
         {

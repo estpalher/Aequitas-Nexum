@@ -3,31 +3,31 @@ title: Planes
 description: "meta description"
 draft: false
 plans:
-  - title: Plan Básico
-    subtitle: Perfecto para iniciarse en el mundo de los Sistemas de Gestión Integral
-    price: 49
+  - title: Base
+    subtitle: Perfecto para PYMES que arrancan su actividad
+    price: 200
     type: mes
     features:
-      - Express Service
-      - Customs Clearance
-      - Time-Critical Services
+      - Soporte Técnico
+      - Mantenimiento
+      - Hosting básico
     button:
-      label: Get started
+      label: Subscribirse
       link: "/contact"
 
-  - title: Plan Profesional
-    subtitle: Best For Professionals
-    price: 69
+  - title: Advanced
+    subtitle: Adecuado para PYMES iniciadas que desean ampliar su alcance
+    price: 500
     type: mes
     recommended: true
     features:
-      - Express Service
-      - Customs Clearance
-      - Time-Critical Services
-      - Cloud Service
-      - Best Dashboard
+      - Plan Base
+      - SEO
+      - Gestión de Impuestos
+      - Mass Email
+      - Hosting Premium
     button:
-      label: Get started
+      label: Subscribirse 
       link: "/contact"
 
 call_to_action:
