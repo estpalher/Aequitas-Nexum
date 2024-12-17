@@ -10,84 +10,83 @@ banner:
 
 # feature
 feature:
-  title: Something You Need To Know
+  title: "Lo que Aequitas Nexum te ofrece"
   features:
-    - name: "Clean Code"
+    - name: "Gestión Inteligente"
       icon: "/images/code.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Object Oriented"
+      content: "Optimiza la administración de tus recursos y obtén el máximo rendimiento."
+    - name: "Interfaz Amigable"
       icon: "/images/oop.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "24h Service"
+      content: "Diseño intuitivo pensado para facilitar el uso y ahorrar tiempo."
+    - name: "Soporte 24/7"
       icon: "/images/user-clock.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Value for Money"
+      content:  "Nuestro equipo está siempre disponible para resolver tus dudas y ofrecerte soporte técnico."
+    - name: "Relación Calidad-Precio"
       icon: "/images/love.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Faster Response"
+      content: "Un servicio que se adapta a tu presupuesto sin comprometer la calidad."
+    - name: "Velocidad Garantizada"
       icon: "/images/speedometer.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content: "Procesos rápidos para que nada detenga el crecimiento de tu negocio."
     - name: "Soporte en la Nube"
       icon: "/images/cloud.svg"
-      content: "Garantizamos el acceso desde cualquier dispositivo, accede a tu negocio desde la nube."
-
+      content: "Gestiona tu empresa desde cualquier lugar y dispositivo con nuestra solución en la nube."
 # services
 services:
-  - title: "Tecnología innovadora"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Tecnología de vanguardia"
+    content: "Con Aequitas Nexum, accede a soluciones innovadoras que se ajustan a las necesidades de tu negocio. Simplifica procesos y aumenta tu productividad con nuestras herramientas personalizadas."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
+      label: Compruébalo tu mismo
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Seguridad y confidencialidad"
+    content: "Garantizamos la máxima seguridad para tus datos y operaciones. Nuestro software protege tu información en todo momento, adaptándose a los más altos estándares de ciberseguridad."
     images:
       - "/images/service-slide-1.png"
     button:
       enable: true
-      label: Check it out
+      label: Compruébalo tu mismo
       link: /contact
 
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Un equipo a tu servicio"
+    content: "Nuestro equipo de expertos está listo para brindarte asistencia y personalizar el software según tus necesidades. Contamos con experiencia en múltiples sectores empresariales."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
+      label: Compruébalo tu mismo
+      link: /contact
+
+  - title: "Diferénciate con Aequitas Nexum"
+    content: "Transforma tu empresa con una herramienta única que integra todo lo que necesitas para llevar tu negocio al siguiente nivel."
+    images:
+      - "/images/service-slide-1.png"
+      - "/images/service-slide-2.png"
+      - "/images/service-slide-3.png"
+    button:
+      enable: true
+      label: Compruébalo tu mismo
       link: /contact
 
 # workflow
 workflow:
   title: "Experimenta el mejor software para PYMES"
   image: "/images/banner.png"
-  description: ""
+  description: "Con Aequitas Nexum, obtén las herramientas para superar los retos de tu negocio y alcanzar el éxito empresarial."
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: ¿Listo para empezar?
+  content: "Da el primer paso hacia una gestión empresarial más eficiente con Aequitas Nexum."
   image: "/images/cta.png"
   button:
     enable: true
-    label: "Contact Us"
+    label: "Contáctanos"
     link: "/contact"
 ---
