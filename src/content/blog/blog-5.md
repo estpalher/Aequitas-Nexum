@@ -1,19 +1,15 @@
 ---
-title: "¿Porque elegir Aequitas Nexum?"
+title: "¿Por qué elegir Aequitas Nexum?"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
 image: "/images/blog-4.jpg"
 date: 2022-08-04T05:00:00Z
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Aequitas Nexum te ofrece el control total de tus negocios online desde un solo lugar, con herramientas automatizadas, seguridad avanzada, integración sencilla y soporte 24/7. 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Diseñado para adaptarse a cualquier tipo de empresa, te ayuda a optimizar tus operaciones, tomar decisiones basadas en datos y alcanzar resultados medibles de forma eficiente.
 
-## Creative Design
+## Resultados que marcan la diferencia
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Con Aequitas Nexum, no solo administras tu negocio, sino que también impulsas su crecimiento. Nuestra plataforma incluye análisis detallados que te permiten identificar oportunidades, mejorar procesos y optimizar tus estrategias. Al centralizar todas tus operaciones, ahorrarás tiempo y reducirás costos, logrando que tu empresa sea más eficiente y competitiva en el mercado digital.
