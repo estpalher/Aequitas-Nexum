@@ -14,7 +14,7 @@ const { blog_folder, summary_length } = config.settings;
 
 const postIndex = (await getEntryBySlug<any, string>(
   blog_folder,
-  "index",
+  "index"
 )) as TIndexData;
 const posts = await getSinglePage(blog_folder as any);
 const sortedPosts = sortByDate(posts);
@@ -61,7 +61,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
               href={`/${blog_folder}/${currentPosts[0].slug}`}
               rel=""
             >
-              Read More
+              Saber más
             </a>
           </div>
         </div>
